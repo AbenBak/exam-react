@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"Peperoni",
+        "price": 2500,
+        "description":"dough with tomato sauce on it and peperonis on the top",
+        "src":"peperoni"
+    },
+    {
+        "id":2,
+        "name":"Margarita",
+        "price": 2000,
+        "description":"dough with tomato sauce on it with cheese and tomatoes on the top",
+        "src":"margarita"
+    },
+    {
+        "id":3,
+        "name":"Vegeterian",
+        "price": 1800,
+        "description":"dough with tomato sauce on it and vegetibals on the top",
+        "src":"vegeterian"
+    },
+    {
+        "id":4,
+        "name":"Strawberry Pizza",
+        "price": 2700,
+        "description":"Unique sweet pizza with strawberry taste",
+        "src":"strawberry"     
+    },
+    {
+        "id":5,
+        "name":"Mix Pizza",
+        "price": 1800,
+        "description":"Regular pizza with mixed toppings on top",
+        "src":"mix"     
+    },
+    {
+        "id":6,
+        "name":"Mushroom Pizza",
+        "price": 2200,
+        "description":"Pizza with various vegetables on top, especially mushroom",
+        "src":"mushroom"     
+    },
+    {
+        "id":7,
+        "name":"Shrimp Pizza",
+        "price": 3000,
+        "description":"Pizza with shrimps and tomatoes on top",
+        "src":"shrimp"     
+    },
+    {
+        "id":8,
+        "name":"Diablo Pizza",
+        "price": 2700,
+        "description":"Pizza with peperonis and various vegetables on top",
+        "src":"diablo"     
+    },
+    {
+        "id":9,
+        "name":"BBq Pizza",
+        "price": 2600,
+        "description":"Mozzarella, BBQ sauce, tomato, mushrooms, and olives.",
+        "src":"bbq"     
+    },
+    {
+        "id":10,
+        "name":"PESTO VEGGIE PIZZA",
+        "price": 2900,
+        "description":"Mozzarella, basil pesto sauce, and a blend of healthy veggies.",
+        "src":"pesto"     
+    }
+]

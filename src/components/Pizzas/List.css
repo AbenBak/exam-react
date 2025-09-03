@@ -1,0 +1,56 @@
+.elems {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding: 20px;
+}
+.elems .elem {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.elems .elem:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+.elems img {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+.elems .elem h2 {
+  font-size: 18px;
+  margin: 8px 0;
+  color: #333;
+}
+.elems .elem p {
+  font-size: 14px;
+  color: #666;
+  min-height: 40px;
+}
+.elems .elem strong {
+  display: block;
+  margin: 10px 0;
+  font-size: 16px;
+  color: #222;
+}
+.elems .elem button {
+  background-color: teal;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.elems .elem button:hover {
+  background-color: #006d6d;
+}
